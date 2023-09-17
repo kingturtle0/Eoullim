@@ -141,6 +141,8 @@ SSAFY 9기 2학기 공통프로젝트 최우수상 🏆
 **와이어프레임**
 [<img src="https://img.shields.io/badge/Link-0085DE?&logo=Figma&logoColor=white">](https://www.figma.com/file/kg0ofaik0sI6lImrCvkDXe/PJT?type=design&node-id=771%3A8&mode=design&t=k78EMbSF9SIlUDL0-1)
 
+<br>
+
 <img width="60%" src="./exec/assets/프로토타입.png"/>
 
 **프로토타입**
